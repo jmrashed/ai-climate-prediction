@@ -2,6 +2,8 @@
 
 This project leverages machine learning and artificial intelligence (AI) techniques to predict climate-related outcomes, such as temperature changes, precipitation patterns, and other environmental factors. It aims to provide valuable insights for climate science, environmental monitoring, and policy-making.
 
+<img src="./assets/images/weather.gif">
+
 ## Overview
 
 The **AI Climate Prediction** project focuses on building predictive models using historical climate data and AI to forecast future climate trends. The project applies various machine learning algorithms to analyze large datasets, predict climate variables, and visualize the results to make predictions that can help inform sustainable solutions.
